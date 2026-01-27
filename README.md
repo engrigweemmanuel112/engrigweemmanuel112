@@ -44,7 +44,8 @@
 <p align="center">
   <a href="#">
   <!-- Add your linkdin and email here-->
-    <img src=" https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"/>
+    
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
