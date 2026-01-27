@@ -42,9 +42,10 @@
 
 ## Connect With Me
 <p align="center">
-  <a href="#">
+  <a href="www.linkedin.com/in/emmanuel-igwe-b4ba31346">
   <!-- Add your linkdin and email here-->
-    <img src="www.linkedin.com/in/emmanuel-igwe-b4ba31346"/>
+    <img src=" "/>
+    [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username/)
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
