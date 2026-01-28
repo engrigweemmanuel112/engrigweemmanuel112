@@ -1,7 +1,7 @@
 
 <!-- Profile Picture -->
 <p align="center">
-  <img src="https://engrigweemmanuel112/emmypic.png" alt="Profile Picture"      width="150" style="border-radius:50%;" />
+  <img src="https://github.com/engrigweemmanuel112/engrigweemmanuel112/blob/main/emmy%20pic.jpg" alt="Profile Picture"      width="150" style="border-radius:50%;" />
 </p>
 
 <h1 align="center">Hi, I'm Emmanuel</h1>
